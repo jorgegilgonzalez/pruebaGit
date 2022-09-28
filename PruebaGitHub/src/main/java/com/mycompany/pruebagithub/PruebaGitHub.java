@@ -12,6 +12,7 @@ package com.mycompany.pruebagithub;
 public class PruebaGitHub {
 
     int a = 25;
+    int b= 34;
     public static void main(String[] args) {
         System.out.println("Hello Mundo!");
     }
